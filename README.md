@@ -1,4 +1,4 @@
-# Arduino CC3000 Relay
+# Arduino CC3000 Relay [![Build Status](https://travis-ci.org/openhomeautomation/arduino-cc3000-relay.svg)](https://travis-ci.org/openhomeautomation/arduino-cc3000-relay)
 
 This is the code for the Arduino + CC3000 + Relay article on the Open Home Automation website. The article is about controlling a relay via WiFi from an interface running on your computer. The repository contains two folders:
 
